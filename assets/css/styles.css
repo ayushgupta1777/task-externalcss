@@ -21,14 +21,14 @@ width: 100%;
 .Header{
     padding: 25px 50px
 }
-.Signup_box{
+.signup_box{
     flex: 1;
           display: flex;
           justify-content: center;
           align-items: center;
 }
 
-.Signup_form{
+.signup_form{
      width: 380px;
             background: rgba(0, 0, 0, 0.75);
             padding: 60px;
@@ -36,14 +36,14 @@ width: 100%;
             border-radius: 4px;
 }
 
-.Signup_form h1{
+.signup_form h1{
      margin: 0 0 28px 0;
               font-size: 32px;
               color: white;
               font-family: Arial, Helvetica, sans-serif;
 }
 
-.Signup_form input{
+.signup_form input{
     width: 100%;
               padding: 14px;
               margin-bottom: 16px;
@@ -71,7 +71,7 @@ width: 100%;
     color: #e50914; cursor: pointer
 }
 
-.Sign_up_button{
+.sign_up_button{
 
      width: 100%;
               padding: 14px;
@@ -84,7 +84,7 @@ width: 100%;
               cursor: pointer;
               margin-bottom: 20px;
 }
-.Already_have_account {
+.already_have_account {
     display: flex;
               justify-content: center;
               align-items: center;
@@ -92,22 +92,22 @@ width: 100%;
               color: #b3b3b3;
 }
 
-.Already_have_account span{
+.already_have_account span{
     color: #e50914; cursor: pointer; margin-left: 8px
 }
 
-.Contact_info{
+.contact_info{
     display: flex;
               justify-content: center;
               margin-top: 25px;
               font-size: 13px;
               color: #737373;
 }
-.Contact_info span{
+.contact_info span{
     color: #e50914; cursor: pointer; margin-left: 8px
 }
 
-.reCAPTCHA{
+.recaptcha{
     margin-top: 25px;
               font-size: 11px;
               color: #8c8c8c;
@@ -116,6 +116,6 @@ width: 100%;
               border-top: 1px solid #333;
 }
 
-.reCAPTCHA span{
+.recaptcha span{
    color: #e50914; cursor: pointer
 }
